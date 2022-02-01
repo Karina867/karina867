@@ -1,6 +1,7 @@
-### Hi👋, Im 
-### Karina Cruz
+### Hi👋, Im Karina Cruz
 
+
+I am a software engineer based in Costa Rica 🇨🇷 🌊 with 2 years of experience in the software industry.
 
 <!--
 **Karina867/karina867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
